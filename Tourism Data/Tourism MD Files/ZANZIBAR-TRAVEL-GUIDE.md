@@ -1,0 +1,213 @@
+
+
+## ZANZIBARTRAVELGUIDE
+Zanzibar,alsoknownastheSpiceIslands,locatedabout22miles(35km)offtheeastcoast
+ofTanzania-EastAfrica.Zanzibarisanarchipelagoconsistingofthetwomainislandsand
+50othersmallislands,themainislandsareUngujaandPembaIsland.
+ZanzibarisfamousforitsHistory,Cultures,luxuriousbeachresortsandtourismactivities
+likedeep-seafishing,diving,snorkeling,sandbanks.StoneTownisthehistoricheartof
+Zanzibar'scapitalcity,locatedonUngujaIsland,about7kmfromZanzibarInternational
+## Airport.
+## Contacts:
+Address:KiembeSamaki,RoyalBuilding,OldAirportroad,Zanzibar-Tanzania.
+## Whatsapp+255746823907|info@zanziworldtours.com|zanzibarworld.com
+
+Thetownisrenownedforitsuniquearchitecture,whichisablendofArab,Indian,
+European,andAfricaninfluences.
+## Thebuildingsarepredominantlymadeofcoralstone,givingthetownitsdistinctive
+appearance.In2000,StoneTownwasdesignatedasaUNESCOWorldHeritageSitedueto
+itsculturalandhistoricalsignificance.
+ThisguideisforyouifyouareplanningyournextvacationtoZanzibarislands!
+## FACTSABOUTZANZIBAR
+## Time:
+ThetimezoneforZanzibar,TanzaniaisGMT+3
+## Electricity:
+230volts,50Hz.Rectangularorroundthree-pinplugsareused.
+## Language:
+SwahiliandEnglisharetheofficiallanguages.Youmayfindsomelocalsonthebeachwho
+mayspeakFrench,German,Italian,Spanish,Russian.
+## Communication:
+TheinternationalcountrydialingcodeforTanzania,aswellasZanzibar,is+255.Thereis
+goodmobilephonecoverageinmaintouristareas;StoneTown,Nungwi,Kendwa,
+Matemwe,Kiwengwa,Uroa/Pongwe,Michamvi,Bwejuu,Paje,Jambiani,Makunduchi&
+## Kizimkazi.
+YoucanbuyaSimCardattheAirport,itcosts$15.
+## Money:
+TheofficialcurrencyistheTanzanianShilling(TZS).Thetourismindustrypriceseverything
+inUSDollarsandthisisthepreferredunitofcurrency.Moneycanbeexchangedinthe
+Airport,StoneTown,Nungwi,Kiwengwa&Pajebeach.
+## Contacts:
+Address:KiembeSamaki,RoyalBuilding,OldAirportroad,Zanzibar-Tanzania.
+## Whatsapp+255746823907|info@zanziworldtours.com|zanzibarworld.com
+
+ATMsarealsoavailableinthoseplaces.Mostlodges,somehotelsandfamousrestaurants
+acceptcards.Butwerecommendyoucarrysomecashforsmallpurchases.
+## Climate:
+Theclimateistropical,hotallyearround,withahotterperiodfromDecembertoMarch,
+andarelativelycoolperiodfromMaytoAugust.Therearetworainyseasons:onemore
+intense,knownasthe"longrains"season,fromlateMarchtoMay,withthepeakinApril,
+andtheotherlessintense,knownasthe"shortrains"season,betweenmid-Octoberand
+earlyDecember.
+## Popularflights:
+MostpopularinternationalflightstoZanzibarare;QatarAirways,FlyDubai,FlyEmirates,
+Condor,KLMRoyalDutchAirlines,Lufthansa,AirFrance,NeosAir,EthiopianAirlines.
+## Safety:
+”IsZanzibarsafetotravel?”Thisisacommonquestionthatisregularlyaskedbythe
+travellerswhowanttovisitZanzibar.Theshortanswer?Yes!Zanzibar,orTanzaniaasa
+whole,isthesafestdestinationinAfrica,withmorethan1milliontouristsvisitingthe
+countryeveryyearfromdifferentpartsoftheworld,UK,Germany,France,Italy,UAE,and
+soon.
+## Localcustoms:
+## Tanzaniansareknowntobefriendlyandgenerallywelcoming,buttravellersshouldbe
+sensitivetolocalculturalmores.VisitorstoZanzibarshouldbeawarethatitisa
+predominantlyMuslimregionandvisitorsshoulddressmodestlyandrespectfully.
+Beachwearisfineonthebeachoraroundahotelpool,butnotacceptableelsewhere.You
+canbuyalocalsarong,calledakanga,whichcanbeusedtocovershoulderswhenneeded,
+orotherwisebeusedasascarfortowel.Touristsshouldbeespeciallycarefulduring
+## Ramadanwhenpublicdrinking,smokingandeveneatingshouldbeavoided.
+HomosexualityisillegalinTanzania.
+## Contacts:
+Address:KiembeSamaki,RoyalBuilding,OldAirportroad,Zanzibar-Tanzania.
+## Whatsapp+255746823907|info@zanziworldtours.com|zanzibarworld.com
+
+## Vaccinations:
+## Ayellowfevervaccinationcertificateisonlyrequiredfortravellersoneyearofageand
+oldercomingfrom–orwhoareinairporttransitformorethan12hourswithin–acountry
+withriskofyellowfevertransmission.
+InadditiontostandardvaccinationssuchasMMRandTDP,theCDCandWHOrecommend
+vaccinationsforTanzania,suchasHepatitisA,hepatitisB,andtyphoid.Yellowfeverand
+rabiesvaccinationsarealsorecommendeddependingonthetraveller’sactivities.Asof
+January2023therearenomoreCOVID-19restrictionsinTanzania,andvaccinationsor
+PCR-testsarenolongernecessarybeforetraveling.
+## Aswithallinternationaltravel,wealwaysadviseyoutoconsultyourphysicianfor
+professionalhealthadvicebeforetravellingtoTanzania.
+Visa/Passportrequirements:
+MostvisitorsenteringTanzaniarequireavisa.Yourvisacanberequestedonlinethrough
+theofficialvisawebsitefromtheTanzaniangovernment(https://visa.immigration.go.tz/).
+## Passportsmustcontainoneunusedvisapage.
+VisitorsmayobtainavisaonarrivalatZanzibarairport,costingbetween$50and$100
+dependingonnationality,payableincash.Allvisitorsalsorequireproofofsufficientfunds
+andshouldholddocumentationfortheirreturnoronwardjourney.Passportsshouldbe
+validforatleastsixmonthsfromdateofentry.
+Thosearrivingfromaninfectedcountrymustholdayellowfevervaccinationcertificate.Itis
+highlyrecommendedthatpassportshaveatleastsixmonthsvalidityremainingafteryour
+intendeddateofdeparturefromyourtraveldestination.
+## Note:
+TherearesomecountrieswhosenationalsdonotrequireavisatoenterTanzania.Belowis
+thelistofthesecountries,theymaybereviewedfromtimetotimebytheTanzania
+government.
+## Contacts:
+Address:KiembeSamaki,RoyalBuilding,OldAirportroad,Zanzibar-Tanzania.
+## Whatsapp+255746823907|info@zanziworldtours.com|zanzibarworld.com
+
+Antigua&Barbuda,Anguilla,Ashmore&CartiaIslands,Bahamas,Barbados,Bermuda,Belize,Brunei,British
+VirginIslands,BritishIndianOceanTerritory,Botswana,Burundi,Cyprus,CaymanIslands,ChannelIslands,
+CocosIslands,CookIslands,ChristmasIslands,Dominica(CommonwealthofDominica),FalklandIslands,
+Gambia,Ghana,Gibraltar,Grenada,Guernsey,Guyana,HeardIsland,HongKong,IsleofMan,Jamaica,
+Jersey,Kenya,Kiribati,Lesotho,Malawi,Montserrat,Malaysia,Madagascar,Malta,Mauritius,Macao,
+Mozambique,Nauru,NiueIsland,NorfolkIsland,Namibia,PapuanewGuinea,Rwanda,Romania,Samoa,
+Seychelles,Singapore,Swaziland,SolomonIsland,St.Kitts&Nevis,St.Lucia,St.Vicent,St.Helena,South
+Africa,SouthSudan,Trinidad&Tobago,Turks&Caicos,Tokelau,Tonga,Tuvalu,Vanuatu,Uganda,Zambia,
+## Zimbabwe
+Therearesomecountrieswhichtheirnationalscannotobtainavisaonarrival.These
+countriesfallundertheso-calledReferralVisa.Belowisthelistofthesecountries,theymay
+bereviewedfromtimetotimebytheTanzaniagovernment.
+Afghanistan,Azerbaijan,Bangladesh,Chad,Djibouti,Eritrea,EquatorialGuinea,Iran,Iraq,Kazakhstan
+Republic,KyrgyzRepublic(Kyrgyzstan),Lebanon,Mali,Mauritania,Niger,Nigeria,Pakistan,Palestine,
+Senegal,Somalia,SriLanka,Somaliland,Syria,SierraLeone,Tajikistan,Turkmenistan,Uzbekistan,Yemen
+BestDayTours&Activities:
+## Tocheckmorethings,pleasevisit,zanzibarworld.com/tours
+Fullday-BlueSafaritrip:
+Thisisafull-dayexcursiontoexploremarinelifeintheMenaibayarea.Thetourincludes
+sailing,Sandbankrelaxingandsnorkelinginthecrystal-clearwaterstoviewthevibrantcoral
+reefsandavarietyoffishandothermarinelife.TryfreshSeafoodBBQlunchwithmouth
+wateringtropicalfruits.
+## Contacts:
+Address:KiembeSamaki,RoyalBuilding,OldAirportroad,Zanzibar-Tanzania.
+## Whatsapp+255746823907|info@zanziworldtours.com|zanzibarworld.com
+
+Fullday-SpiceFarm,PrisonIsland&StoneTown:
+Thisisthefulldaycombinedexperiencestrip;Onthesameday,youwillvisitSpiceFarms,
+PrisonIsland&StoneTown.Thisismorecosteffectivethanvisitingeachattractiononseparate
+days.TheDriverwillcometopickyouupfromtheHotelinthemorningandyouwillbeback
+duringthesunset.
+Halfday-MnembaDolphins&Snorkeling:
+MnembaDolphins&SnorkelingTourisanexcitingtripthatwedesignedforyourbestholiday
+experienceintheparadiseislandsofZanzibar.Inthistour,youwillstartwithswimmingwithwild
+dolphins,andthentoSnorkelingintheshallowwaternearMnembaIsland.
+Halfday-JozaniForestTour:
+Don’tmissthishalfdaytriptoDiscoverJozaniChwakabayNationalparkorsimplyknownas
+JozaniForest.Theparkishometotheredcolobusmonkey,whichisaspeciesfoundonlyin
+Zanzibarislands.Youwillvisitmangroveforestsandspotothervariousspeciesofbirds,
+includingthemangrovekingfisher.
+## Contacts:
+Address:KiembeSamaki,RoyalBuilding,OldAirportroad,Zanzibar-Tanzania.
+## Whatsapp+255746823907|info@zanziworldtours.com|zanzibarworld.com
+
+## Tocheckmoretours,pleasevisit,
+zanzibarworld.com/tours
+BestRestaurants:
+1.TheRockRestaurant
+LocationReviewed5/5MealsSpecialdiets
+Michamvi4StarsLunch,Dinner,Brunch,
+LateNight
+VegetarianFriendly,Vegan
+## Options
+2.Fisherman'sSeafood&Grill
+LocationReviewed5/5MealsSpecialdiets
+Nungwi5StarsLunch,Dinner,Brunch,
+## Drinks
+VegetarianFriendly,Vegan
+Options,GlutenFreeOptions
+3.CapeTownFishMarketRestaurant
+LocationReviewed5/5MealsSpecialdiets
+StoneTown4StarsLunch,Dinner,DrinksVegetarianOptions
+4.LukmanLocalRestaurant(Localcuisines)
+LocationReviewed5/5MealsSpecialdiets
+StoneTown4StarsBreakfast,Lunch,Dinner.VegetarianFriendly,Vegan
+Options,Halal.
+5.EmersonSpiceTeaHouseRestaurant
+LocationReviewed5/5MealsSpecialdiets
+StoneTown4.5StarsBreakfast,Lunch,Dinner.VegetarianFriendly,Vegan
+Options,Halal.
+## Contacts:
+Address:KiembeSamaki,RoyalBuilding,OldAirportroad,Zanzibar-Tanzania.
+## Whatsapp+255746823907|info@zanziworldtours.com|zanzibarworld.com
+
+BestBeachestocheckout:
+❖Kendwabeach
+❖Nungwibeach
+❖KiwengwaBeach
+❖Pajebeach
+❖Jambianibeach
+❖MichamviKaeBeach
+❖Matemwebeach
+❖NakupendaSandbank
+ImportantSwahiliwords:
+## 5swahiliwordstohelpyouout.
+SwahiliEnglish
+JamboHello/Howareyou
+## Asante
+## Thankyou
+HakunaMatataNoproblem/Noworries
+KaribuWelcome/Youarewelcome
+KwaheriBye/Seeyou
+ThingstopackforZanzibar:
+## Thesearethebasicthings.
+SunprotectionitemsClothingsElectronics
+SunscreenLight,breathableclothingCameraorsmartphone
+## Hat
+## Swimwear
+## Powerbank
+SunglassesSarongsorcover-upsWaterproofphonecase
+Flip-flopsTraveladapter:TypeD&G
+## Contacts:
+Address:KiembeSamaki,RoyalBuilding,OldAirportroad,Zanzibar-Tanzania.
+## Whatsapp+255746823907|info@zanziworldtours.com|zanzibarworld.com
+
+## Wheretostartplanningyourvacation?
+## Startplanningbyvisitinghere,
+zanzibarworld.com/plan
+## Contacts:
+Address:KiembeSamaki,RoyalBuilding,OldAirportroad,Zanzibar-Tanzania.
+## Whatsapp+255746823907|info@zanziworldtours.com|zanzibarworld.com

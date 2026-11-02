@@ -1,0 +1,554 @@
+{
+  "memories": {
+    "sess_yhbrofj1_mu0w67xx": {
+      "sessionId": "sess_yhbrofj1_mu0w67xx",
+      "interests": [
+        "beach",
+        "culture"
+      ],
+      "notes": [
+        "Liked wizard plan",
+        "Liked wizard plan",
+        "Liked wizard plan",
+        "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beac",
+        "Liked wizard plan",
+        "Liked wizard plan",
+        "Liked wizard plan",
+        "Asked policy: Do I need a visa for Zanzibar?",
+        "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beac",
+        "Liked wizard plan",
+        "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beac",
+        "Liked wizard plan",
+        "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beac",
+        "Liked wizard plan",
+        "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beac",
+        "Liked wizard plan",
+        "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beac",
+        "Rejected wizard plan — adjust interests",
+        "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beac",
+        "Liked wizard plan"
+      ],
+      "events": [
+        {
+          "id": "mem_mu1cmwet",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T14:39:30.197Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu1cmupe",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T14:39:27.986Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Pa"
+        },
+        {
+          "id": "mem_mu1cmi7u",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T14:39:11.802Z",
+          "type": "itinerary_rejected",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu1cmd32",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T14:39:05.150Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Pa"
+        },
+        {
+          "id": "mem_mu16fmjb",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:45:53.111Z",
+          "type": "story_viewed",
+          "summary": "Narrated Jozani: Home of the Red Colobus",
+          "meta": {
+            "locationId": "jozani"
+          }
+        },
+        {
+          "id": "mem_mu16awfw",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:42:12.668Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu16aux9",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:42:10.701Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Pa"
+        },
+        {
+          "id": "mem_mu169qt2",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:41:18.710Z",
+          "type": "story_viewed",
+          "summary": "Jozani: Home of the Red Colobus",
+          "meta": {
+            "locationId": "jozani"
+          }
+        },
+        {
+          "id": "mem_mu169awt",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:40:58.109Z",
+          "type": "story_viewed",
+          "summary": "Stone Town: Crossroads of the Indian Ocean",
+          "meta": {
+            "locationId": "stone-town"
+          }
+        },
+        {
+          "id": "mem_mu1691sn",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:40:46.295Z",
+          "type": "story_viewed",
+          "summary": "Jozani: Home of the Red Colobus",
+          "meta": {
+            "locationId": "jozani"
+          }
+        },
+        {
+          "id": "mem_mu165qwr",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:38:12.219Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu165fb5",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:37:57.185Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Pa"
+        },
+        {
+          "id": "mem_mu15x0fu",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:31:24.666Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu15wzmp",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:31:23.617Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Pa"
+        },
+        {
+          "id": "mem_mu15we2a",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:30:55.666Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu15wcpa",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:30:53.902Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Pa"
+        },
+        {
+          "id": "mem_mu15uar5",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:29:18.065Z",
+          "type": "policy_asked",
+          "summary": "Do I need a visa for Zanzibar?"
+        },
+        {
+          "id": "mem_mu15snfc",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:28:01.176Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu15rtq1",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:27:22.681Z",
+          "type": "story_viewed",
+          "summary": "Narrated Stone Town: Crossroads of the Indian Ocean",
+          "meta": {
+            "locationId": "stone-town"
+          }
+        },
+        {
+          "id": "mem_mu15rr7t",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:27:19.433Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu15r0ti",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:26:45.222Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu15pm7l",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:25:39.633Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Pa"
+        },
+        {
+          "id": "mem_mu15mk0n",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:23:16.823Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, luxury · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Za"
+        },
+        {
+          "id": "mem_mu15mjup",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:23:16.609Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, luxury · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Za"
+        },
+        {
+          "id": "mem_mu15mj7y",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:23:15.790Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, luxury · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Za"
+        },
+        {
+          "id": "mem_mu15mh5n",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:23:13.115Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, luxury · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Zanzibar White Sand Lu"
+        },
+        {
+          "id": "mem_mu15m71m",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:23:00.010Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15m6uq",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:59.762Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15m6pd",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:59.569Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15m6js",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:59.368Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15m6e8",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:59.168Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15m4uh",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:57.161Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15m4nj",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:56.911Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15m4ey",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:56.602Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15m3wo",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:55.944Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15m0x1",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:52.069Z",
+          "type": "itinerary_rejected",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15lwe2",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:46.202Z",
+          "type": "itinerary_rejected",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15lw8a",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:45.994Z",
+          "type": "itinerary_rejected",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15lw1l",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:45.753Z",
+          "type": "itinerary_rejected",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15lvft",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:44.969Z",
+          "type": "itinerary_rejected",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15lubi",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:43.518Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15ltf6",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:42.354Z",
+          "type": "itinerary_accepted",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand L"
+        },
+        {
+          "id": "mem_mu15loon",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:22:36.215Z",
+          "type": "itinerary_generated",
+          "summary": "4-day Zanzibar plan for July · interests: beach, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar White Sand Luxury Villas, Nungwi"
+        },
+        {
+          "id": "mem_mu15i5u3",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:19:51.819Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar Whi"
+        },
+        {
+          "id": "mem_mu15i5nm",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:19:51.586Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar Whi"
+        },
+        {
+          "id": "mem_mu15i578",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:19:50.996Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar Whi"
+        },
+        {
+          "id": "mem_mu15i2pm",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:19:47.770Z",
+          "type": "itinerary_rejected",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar Whi"
+        },
+        {
+          "id": "mem_mu15i2iw",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:19:47.528Z",
+          "type": "itinerary_rejected",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar Whi"
+        },
+        {
+          "id": "mem_mu15i2ab",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:19:47.219Z",
+          "type": "itinerary_rejected",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar Whi"
+        },
+        {
+          "id": "mem_mu15i1nf",
+          "sessionId": "sess_yhbrofj1_mu0w67xx",
+          "at": "2026-09-14T11:19:46.395Z",
+          "type": "itinerary_rejected",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar Whi"
+        }
+      ],
+      "updatedAt": "2026-09-14T14:39:30.197Z",
+      "event": {
+        "type": "itinerary_accepted",
+        "summary": "3-day Zanzibar plan for July · interests: beach, culture, adventure, luxury · budget up to $200/night · party of 2. Highlights: Zanzibar Whi"
+      },
+      "appendNote": "Liked wizard plan",
+      "budgetMax": 200,
+      "days": 3,
+      "travelStyle": "beach+culture"
+    },
+    "demo1": {
+      "sessionId": "demo1",
+      "interests": [
+        "beach",
+        "culture"
+      ],
+      "notes": [
+        "3-day Zanzibar plan · interests: beach, culture · budget up to $180/night. Highlights: Nungwi Beach Resort, Nungwi Beach",
+        "Asked policy: Do I need a visa for Zanzibar?"
+      ],
+      "events": [
+        {
+          "id": "mem_mu0xqch4",
+          "sessionId": "demo1",
+          "at": "2026-09-14T07:42:16.744Z",
+          "type": "policy_asked",
+          "summary": "Do I need a visa for Zanzibar?"
+        },
+        {
+          "id": "mem_mu0xq7u8",
+          "sessionId": "demo1",
+          "at": "2026-09-14T07:42:10.736Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan · interests: beach, culture · budget up to $180/night. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Paje Beach, Stone Town ("
+        }
+      ],
+      "updatedAt": "2026-09-14T07:42:16.744Z",
+      "budgetMax": 180,
+      "days": 3,
+      "travelStyle": "beach+culture",
+      "event": {
+        "type": "policy_asked",
+        "summary": "Do I need a visa for Zanzibar?"
+      },
+      "appendNote": "Asked policy: Do I need a visa for Zanzibar?"
+    },
+    "test1": {
+      "sessionId": "test1",
+      "interests": [],
+      "notes": [
+        "Liked"
+      ],
+      "events": [
+        {
+          "id": "mem_mu15jn86",
+          "sessionId": "test1",
+          "at": "2026-09-14T11:21:01.014Z",
+          "type": "itinerary_accepted",
+          "summary": "test"
+        }
+      ],
+      "updatedAt": "2026-09-14T11:21:01.014Z",
+      "appendNote": "Liked",
+      "event": {
+        "type": "itinerary_accepted",
+        "summary": "test"
+      }
+    },
+    "itinerary": {
+      "sessionId": "itinerary",
+      "interests": [],
+      "notes": [],
+      "events": [],
+      "updatedAt": "2026-09-14T11:22:16.612Z"
+    },
+    "sess_ui": {
+      "sessionId": "sess_ui",
+      "interests": [],
+      "notes": [
+        "Liked wizard plan"
+      ],
+      "events": [
+        {
+          "id": "mem_mu15vplt",
+          "sessionId": "sess_ui",
+          "at": "2026-09-14T11:30:23.969Z",
+          "type": "itinerary_accepted",
+          "summary": "ok"
+        }
+      ],
+      "updatedAt": "2026-09-14T11:30:23.969Z"
+    },
+    "test-browser": {
+      "sessionId": "test-browser",
+      "interests": [
+        "beach"
+      ],
+      "notes": [],
+      "events": [
+        {
+          "id": "mem_mu166ff5",
+          "sessionId": "test-browser",
+          "at": "2026-09-14T11:38:43.985Z",
+          "type": "itinerary_accepted",
+          "summary": "test"
+        }
+      ],
+      "updatedAt": "2026-09-14T11:38:43.985Z"
+    },
+    "sess_gihadmk0_mu423sbp": {
+      "sessionId": "sess_gihadmk0_mu423sbp",
+      "interests": [
+        "beach",
+        "culture"
+      ],
+      "notes": [
+        "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beac",
+        "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beac",
+        "Liked wizard plan"
+      ],
+      "events": [
+        {
+          "id": "mem_mu42fl4k",
+          "sessionId": "sess_gihadmk0_mu423sbp",
+          "at": "2026-09-16T12:17:11.348Z",
+          "type": "itinerary_accepted",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Bea"
+        },
+        {
+          "id": "mem_mu42fjlh",
+          "sessionId": "sess_gihadmk0_mu423sbp",
+          "at": "2026-09-16T12:17:09.365Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Pa"
+        },
+        {
+          "id": "mem_mu42e89w",
+          "sessionId": "sess_gihadmk0_mu423sbp",
+          "at": "2026-09-16T12:16:08.036Z",
+          "type": "itinerary_generated",
+          "summary": "3-day Zanzibar plan for July · interests: beach, culture · budget up to $200/night · party of 2. Highlights: Nungwi Beach Resort, Nungwi Beach, Kendwa Beach, Pa"
+        }
+      ],
+      "updatedAt": "2026-09-16T12:17:11.348Z",
+      "budgetMax": 200,
+      "days": 3,
+      "travelStyle": "beach+culture"
+    },
+    "test-gemini": {
+      "sessionId": "test-gemini",
+      "interests": [],
+      "notes": [],
+      "events": [],
+      "updatedAt": "2026-09-23T12:50:20.525Z"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+/* Photo panel on the login and sign-up pages: the beach by day, the aerial reef view at night,
+   matching the chat page. Text on it is always light, since the photo is always darkened. */
+.auth-photo {
+  --theme-toggle-border: rgba(255, 253, 248, 0.35);
+  color: #eaf2f9;
+  background: linear-gradient(rgba(10, 61, 107, 0.38), rgba(10, 61, 107, 0.38)), url("/images/zanzibar-beach.jpg") center / cover no-repeat;
+}
+.dark .auth-photo {
+  background: linear-gradient(rgba(3, 14, 27, 0.55), rgba(3, 14, 27, 0.55)), url("/images/zanzibar-aerial.jpg") center / cover no-repeat;
+}
+.auth-photo .theme-toggle { color: #fffdf8; }
+
+.auth-brand-mark { color: #06283f; background: #2cc4c2; }
+.auth-gold { color: #e8c988; }
+.auth-soft { color: #dcebf8; }
+.auth-benefits { background: rgba(3, 14, 27, 0.45); }
+.auth-check { color: #0a3d6b; background: #e8c988; }
+.auth-credit a { text-decoration: underline; }
+
+.auth-flag-stripe { display: flex; gap: 3px; }
+.auth-flag-stripe span { width: 20px; height: 3px; border-radius: 2px; background: #3fa9e6; }
+.auth-flag-stripe span:nth-child(2) { background: #86a8c8; }
+.auth-flag-stripe span:nth-child(3) { background: #2baa5e; }

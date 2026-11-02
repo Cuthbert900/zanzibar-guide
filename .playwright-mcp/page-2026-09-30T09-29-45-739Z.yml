@@ -1,0 +1,126 @@
+- generic [ref=f4e2]:
+  - region "Notifications alt+T"
+  - generic [ref=f4e172]:
+    - complementary "Main navigation" [ref=f4e173]:
+      - link "Zanzibar Guide home" [ref=f4e174] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f4e179]:
+          - strong [ref=f4e180]: ZANZIBAR
+          - generic [ref=f4e181]: ISLAND GUIDE
+      - generic [ref=f4e182]: WORKSPACE
+      - navigation [ref=f4e183]:
+        - button "Explore Zanzibar" [ref=f4e184] [cursor=pointer]
+        - link "My Bookings" [ref=f4e192] [cursor=pointer]:
+          - /url: /account
+        - link "AI Chat Assistant" [ref=f4e199] [cursor=pointer]:
+          - /url: "#chat-feed"
+        - button "Settings" [ref=f4e204] [cursor=pointer]
+      - generic [ref=f4e211]:
+        - generic [ref=f4e212]: YOUR ISLAND ESCAPE
+        - strong [ref=f4e214]: Stone Town & the coast
+        - generic [ref=f4e215]: Make every hour count.
+        - button "Plan your trip" [ref=f4e216] [cursor=pointer]
+      - generic [ref=f4e219]:
+        - generic [ref=f4e220]: Guide ready
+        - generic [ref=f4e223]:
+          - generic [ref=f4e224]: TG
+          - generic [ref=f4e225]:
+            - strong [ref=f4e226]: Travel guest
+            - generic [ref=f4e227]: Personal itinerary
+          - button "Open preferences" [ref=f4e228] [cursor=pointer]
+    - main [ref=f4e232]:
+      - generic [ref=f4e233]:
+        - generic [ref=f4e234]:
+          - generic [ref=f4e235]: YOUR PERSONAL ISLAND CONCIERGE
+          - heading "AI Chat Assistant" [level=1] [ref=f4e237]
+        - generic [ref=f4e238]:
+          - generic [ref=f4e239]: Adaptive AI
+          - generic "Travel guest" [ref=f4e245]: TG
+      - region "Conversation with the Zanzibar travel guide" [ref=f4e246]:
+        - generic [ref=f4e247]:
+          - generic [ref=f4e248]: WEDNESDAY 30 SEPTEMBER
+          - heading "Good morning, traveller" [level=2] [ref=f4e251]
+          - paragraph [ref=f4e254]: Where shall we take you today?
+        - generic [ref=f4e255]:
+          - article [ref=f4e256]:
+            - generic [ref=f4e257]:
+              - generic [ref=f4e258]:
+                - strong [ref=f4e259]: You
+                - generic [ref=f4e260]: 10:42 AM
+              - paragraph [ref=f4e262]: I have one afternoon in Stone Town. What should I make time for?
+          - article [ref=f4e263]:
+            - generic [ref=f4e268]:
+              - generic [ref=f4e269]:
+                - strong [ref=f4e270]: Zanzibar Guide
+                - generic [ref=f4e271]: 10:42 AM
+                - generic [ref=f4e272]: Adaptive AI
+              - paragraph [ref=f4e276]: A lovely way to spend the afternoon is to wander Stone Town's old lanes, then finish by the water as the day cools. Start at the House of Wonders and the Old Fort, both close to the seafront. Leave a little time to notice the carved doors and shaded courtyards along the way. Around sunset, head to Forodhani Gardens for the harbour light and a taste of Zanzibar street food. Keep your pace easy; the lanes are best explored on foot.
+          - generic [ref=f4e277]: YOU'RE UP TO DATE
+        - generic [ref=f4e280]:
+          - generic "Suggested questions" [ref=f4e281]:
+            - button "Build me a day plan" [ref=f4e282] [cursor=pointer]
+            - button "Where to eat tonight?" [ref=f4e286] [cursor=pointer]
+            - button "Best beaches for swimming" [ref=f4e290] [cursor=pointer]
+          - generic [ref=f4e294]:
+            - textbox "Message the Zanzibar Guide" [ref=f4e295]:
+              - /placeholder: Ask about Zanzibar, your plans, or anything in between...
+            - generic [ref=f4e296]: ENTER TO SEND
+            - button "Send message" [disabled] [ref=f4e297]
+          - generic [ref=f4e301]:
+            - generic [ref=f4e302]: Your plans stay yours
+            - generic [ref=f4e305]: AI can make mistakes. Verify important travel details.
+    - complementary "Destination details" [ref=f4e306]:
+      - generic [ref=f4e307]:
+        - generic [ref=f4e308]:
+          - generic [ref=f4e309]: A LITTLE LOCAL KNOW-HOW
+          - heading "Island notes" [level=2] [ref=f4e310]
+        - button "Ask for more destination details" [ref=f4e311] [cursor=pointer]
+      - generic [ref=f4e315]:
+        - generic [ref=f4e316]:
+          - img "Stone Town's historic waterfront and carved wooden doors" [ref=f4e317]
+          - generic [ref=f4e318]: UNGUNJA ISLAND
+          - generic [ref=f4e322]: 01 / 04
+        - generic [ref=f4e323]:
+          - generic [ref=f4e324]:
+            - generic [ref=f4e325]:
+              - text: CULTURE / HERITAGE
+              - heading "Stone Town" [level=3] [ref=f4e326]
+            - button "Save Stone Town" [ref=f4e327] [cursor=pointer]:
+              - generic [ref=f4e328]: +
+          - paragraph [ref=f4e329]: A living Swahili city of coral-stone lanes, carved doors, and Indian Ocean stories.
+          - generic [ref=f4e330]:
+            - generic [ref=f4e331]: UNESCO heritage
+            - generic [ref=f4e332]: Walkable
+          - button "Explore highlights" [ref=f4e333] [cursor=pointer]
+      - region "Island conditions" [ref=f4e336]:
+        - generic [ref=f4e338]:
+          - text: ISLAND NOTES
+          - heading "Coastal rhythm" [level=3] [ref=f4e339]
+        - generic [ref=f4e352]:
+          - strong [ref=f4e353]: Take it slow
+          - generic [ref=f4e354]: Warm afternoons, softer by the sea
+        - generic [ref=f4e355]:
+          - generic [ref=f4e356]: LOCAL TIP
+          - text: Plan your old-town walk for late afternoon, then stay for the harbour at sunset.
+      - generic [ref=f4e357]:
+        - generic [ref=f4e358]:
+          - heading "Stone Town highlights" [level=3] [ref=f4e359]
+          - generic [ref=f4e360]: 3 PLACES
+        - button "01 House of Wonders Seafront landmark" [ref=f4e361] [cursor=pointer]:
+          - generic [ref=f4e362]: "01"
+          - generic [ref=f4e363]:
+            - strong [ref=f4e364]: House of Wonders
+            - generic [ref=f4e365]: Seafront landmark
+        - button "02 The Old Fort History & open-air events" [ref=f4e369] [cursor=pointer]:
+          - generic [ref=f4e370]: "02"
+          - generic [ref=f4e371]:
+            - strong [ref=f4e372]: The Old Fort
+            - generic [ref=f4e373]: History & open-air events
+        - button "03 Forodhani Gardens Harbour-side food market" [ref=f4e377] [cursor=pointer]:
+          - generic [ref=f4e378]: "03"
+          - generic [ref=f4e379]:
+            - strong [ref=f4e380]: Forodhani Gardens
+            - generic [ref=f4e381]: Harbour-side food market
+      - generic [ref=f4e385]:
+        - generic [ref=f4e386]: CURATED FOR YOUR JOURNEY
+        - generic [ref=f4e387]: 01 04

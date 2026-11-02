@@ -1,0 +1,28 @@
+{
+  "cases": [
+    {
+      "id": "attractions-basic",
+      "question": "What attractions should I visit in Zanzibar?",
+      "expectAnyLocationIds": ["stone-town", "nungwi", "jozani", "spice-tour", "paje", "prison-island"],
+      "expectContentIncludes": []
+    },
+    {
+      "id": "hotels-budget",
+      "question": "Show me beach hotels under $200",
+      "expectAnyLocationIds": ["nungwi-beach-resort", "emerson-spice"],
+      "expectContentIncludes": []
+    },
+    {
+      "id": "safety",
+      "question": "What are the visa and malaria tips for Zanzibar?",
+      "expectAnyLocationIds": [],
+      "expectAlertOrFaq": true
+    },
+    {
+      "id": "emergency",
+      "question": "I need emergency assistance in Stone Town",
+      "expectAnyLocationIds": ["police-stone-town", "mnazi-mmoja"],
+      "expectContentIncludes": []
+    }
+  ]
+}

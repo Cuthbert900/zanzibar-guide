@@ -1,0 +1,42 @@
+.explore-page {
+  min-height: 100vh;
+  color: var(--foreground);
+  background-color: var(--background);
+  font-family: "DM Sans", "Avenir Next", sans-serif;
+}
+
+.explore-page :where(button, a, input, select) { letter-spacing: 0; }
+.explore-page .container { max-width: 1440px; }
+.explore-header { background: color-mix(in srgb, var(--background) 96%, transparent); border-color: var(--border); }
+.explore-header .travel-brand { color: var(--foreground); }
+.explore-header img { background: var(--muted); border-color: var(--border); }
+.explore-main { padding-top: 20px; }
+.explore-page :focus-visible { outline-color: var(--primary); }
+.explore-page > .bg-amber-50 { color: var(--foreground); border-color: color-mix(in srgb, var(--zd-gold) 45%, transparent); background: color-mix(in srgb, var(--zd-gold) 22%, var(--background)); }
+.explore-page > .bg-amber-50 > div { color: var(--foreground); }
+.explore-page .explore-powered-by { color: var(--muted-foreground); }
+.explore-page #tools-panel { scrollbar-color: rgba(141, 164, 164, 0.28) transparent; }
+.explore-page #tools-panel .card,
+.explore-page #tools-panel button.group { border-color: var(--border); background-color: var(--card); box-shadow: none; }
+.explore-page #tools-panel button.group:hover { border-color: color-mix(in srgb, var(--primary) 40%, transparent); background-color: var(--secondary); }
+.explore-page #tools-panel input { color: var(--foreground); border-color: var(--border); background: var(--popover); }
+.explore-page #tools-panel input::placeholder { color: var(--muted-foreground); opacity: 1; }
+.explore-page #tools-panel .leaflet-container { border-radius: 7px; }
+.explore-tools-fab { box-shadow: 0 8px 22px rgba(0, 0, 0, 0.35); }
+
+@media (min-width: 1280px) {
+  .explore-page .explore-tools-fab { display: none !important; }
+}
+
+@media (max-width: 1399px) {
+  .explore-page .explore-powered-by { display: none !important; }
+  .explore-page .travel-brand + p { display: none; }
+}
+
+@media (max-width: 1279px) {
+  .explore-main { padding-top: 15px; }
+}
+
+@media (max-width: 700px) {
+  .explore-main { padding: 12px 12px 32px; }
+}

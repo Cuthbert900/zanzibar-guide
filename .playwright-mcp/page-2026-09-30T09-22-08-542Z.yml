@@ -1,0 +1,68 @@
+- generic [ref=f1e2]:
+  - region "Notifications alt+T"
+  - main [ref=f1e63]:
+    - generic [ref=f1e64]:
+      - generic [ref=f1e65]:
+        - generic [ref=f1e66]: YOUR PERSONAL ISLAND CONCIERGE
+        - heading "AI Chat Assistant" [level=1] [ref=f1e68]
+      - generic [ref=f1e69]:
+        - generic [ref=f1e70]: Adaptive AI
+        - generic "Travel guest" [ref=f1e76]: TG
+    - navigation "Mobile navigation" [ref=f1e219]:
+      - button "Explore" [ref=f1e220] [cursor=pointer]
+      - link "Bookings" [ref=f1e224] [cursor=pointer]:
+        - /url: /account
+      - link "AI Chat" [ref=f1e227] [cursor=pointer]:
+        - /url: "#chat-feed"
+      - button "Settings" [active] [ref=f1e230] [cursor=pointer]
+    - generic [ref=f1e234]:
+      - generic [ref=f1e235]: Language
+      - combobox "Language" [ref=f1e236] [cursor=pointer]:
+        - option "English" [selected]
+        - option "Español"
+        - option "Français"
+        - option "Deutsch"
+        - option "中文"
+        - option "Kiswahili"
+      - generic [ref=f1e237]: Currency
+      - generic [ref=f1e238]:
+        - combobox "Display currency" [ref=f1e239] [cursor=pointer]:
+          - option "USD" [selected]
+          - option "EUR"
+          - option "GBP"
+          - option "ZAR"
+        - button "Refresh exchange rates" [ref=f1e240] [cursor=pointer]: FX
+    - region "Conversation with the Zanzibar travel guide" [ref=f1e77]:
+      - generic [ref=f1e78]:
+        - generic [ref=f1e79]: WEDNESDAY 30 SEPTEMBER
+        - heading "Good morning, traveller ✦" [level=2] [ref=f1e82]:
+          - text: Good morning, traveller
+          - generic [ref=f1e83]: ✦
+        - paragraph [ref=f1e84]: Where shall we take you today?
+      - generic [ref=f1e85]:
+        - article [ref=f1e86]:
+          - generic [ref=f1e87]:
+            - generic [ref=f1e88]:
+              - strong [ref=f1e89]: You
+              - generic [ref=f1e90]: 10:42 AM
+            - paragraph [ref=f1e92]: I have one afternoon in Stone Town. What should I make time for?
+        - article [ref=f1e93]:
+          - generic [ref=f1e98]:
+            - generic [ref=f1e99]:
+              - strong [ref=f1e100]: Zanzibar Guide
+              - generic [ref=f1e101]: 10:42 AM
+              - generic [ref=f1e102]: Adaptive AI
+            - paragraph [ref=f1e106]: A lovely way to spend the afternoon is to wander Stone Town's old lanes, then finish by the water as the day cools. Start at the House of Wonders and the Old Fort, both close to the seafront. Leave a little time to notice the carved doors and shaded courtyards along the way. Around sunset, head to Forodhani Gardens for the harbour light and a taste of Zanzibar street food. Keep your pace easy; the lanes are best explored on foot.
+        - generic [ref=f1e107]: YOU'RE UP TO DATE
+      - generic [ref=f1e110]:
+        - generic "Suggested questions" [ref=f1e111]:
+          - button "Build me a day plan" [ref=f1e112] [cursor=pointer]
+          - button "Where to eat tonight?" [ref=f1e116] [cursor=pointer]
+          - button "Best beaches for swimming" [ref=f1e120] [cursor=pointer]
+        - generic [ref=f1e124]:
+          - textbox "Message the Zanzibar Guide" [ref=f1e125]:
+            - /placeholder: Ask about Zanzibar, your plans, or anything in between...
+          - button "Send message" [disabled] [ref=f1e127]
+        - generic [ref=f1e131]:
+          - generic [ref=f1e132]: Your plans stay yours
+          - generic [ref=f1e135]: AI can make mistakes. Verify important travel details.

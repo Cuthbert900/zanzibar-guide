@@ -1,0 +1,152 @@
+- generic:
+  - generic:
+    - region "Notifications alt+T"
+    - generic:
+      - banner:
+        - generic:
+          - generic [aria-hidden]:
+            - generic:
+              - heading [level=1]: Zanzibar Guide
+              - paragraph: Your Zanzibar travel companion
+            - button: Tools
+            - button: Demo script
+          - generic:
+            - generic [aria-hidden]:
+              - checkbox
+              - text: Auto-speak
+            - generic [aria-hidden]:
+              - combobox
+              - button: FX
+            - generic [aria-hidden]:
+              - combobox
+            - button [expanded] [aria-hidden]:
+              - generic: More
+            - generic [aria-hidden]: Powered by Cassava AI
+            - status "AI configured · auto":
+              - generic: AI configured
+      - generic [aria-hidden]:
+        - generic:
+          - link:
+            - /url: https://example.gov/health/travel
+            - text: watchMalaria & mosquito precautions
+          - link:
+            - /url: https://example.gov/tourism/ocean-safety
+            - text: alertOcean & tide safety
+      - main [aria-hidden]:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - paragraph: Hello! 👋 I'm your Zanzibar travel assistant. How can I help you today?
+                      - generic:
+                        - generic: 11:29
+                        - button: Speak
+              - generic:
+                - group:
+                  - paragraph: "Quick Questions:"
+                  - generic:
+                    - button:
+                      - generic: Find Attractions
+                    - button:
+                      - generic: Hotels & Stays
+                    - button:
+                      - generic: Travel Safety
+                    - button:
+                      - generic: Book a Tour
+                    - button:
+                      - generic: Emergency Help
+                    - button:
+                      - generic: General Info
+              - generic:
+                - generic:
+                  - textbox:
+                    - /placeholder: Ask about Stone Town, beaches, lodges, visas...
+                  - generic:
+                    - textbox:
+                      - /placeholder: Caption (e.g. Stone Town door / Nungwi)
+                    - button
+                    - button
+                  - generic:
+                    - button
+                  - button [disabled]
+          - complementary:
+            - generic:
+              - generic:
+                - heading [level=2]: Tools & map
+                - paragraph: Essentials first — plan, discover, book, then utilities and extras
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Live map (OpenStreetMap)
+                    - paragraph: Ask chat or build an itinerary
+                  - generic:
+                    - generic [ref=f4e89]:
+                      - button [ref=f4e156] [cursor=pointer]: +
+                      - button [ref=f4e157] [cursor=pointer]: −
+                    - generic [ref=f4e92]:
+                      - link [ref=f4e158] [cursor=pointer]:
+                        - /url: https://leafletjs.com
+                        - text: Leaflet
+                      - text: "| ©"
+                      - link [ref=f4e159] [cursor=pointer]:
+                        - /url: https://www.openstreetmap.org/copyright
+                        - text: OpenStreetMap
+              - generic:
+                - button: Nearest emergency
+              - generic:
+                - generic:
+                  - textbox:
+                    - /placeholder: Search tool categories...
+                - generic:
+                  - button:
+                    - generic:
+                      - generic:
+                        - text: Essentials
+                        - generic: "8"
+                      - generic: Search places, plan itineraries, read stories, and check weather.
+                  - button:
+                    - generic:
+                      - generic:
+                        - text: Plan & book
+                        - generic: "13"
+                      - generic: Build routes, compare stays, manage budgets, and bookings.
+                  - button:
+                    - generic:
+                      - generic:
+                        - text: Help & info
+                        - generic: "11"
+                      - generic: Get travel guidance, local transport, translation, and documents.
+                  - button:
+                    - generic:
+                      - generic:
+                        - text: Extras
+                        - generic: "2"
+                      - generic: Accessibility settings and travel rewards.
+        - generic:
+          - generic:
+            - heading [level=3]: Discover Attractions
+            - paragraph: Hours, fees, transport, and events from the mock Commission API.
+          - generic:
+            - heading [level=3]: Stay Safe & Informed
+            - paragraph: Dynamic compliance feed with rule-based watch/alert severity.
+          - generic:
+            - heading [level=3]: Book securely
+            - paragraph: Tokenized PCI-DSS shaped mock gateway — no card PANs stored.
+        - generic:
+          - heading [level=2]: Ready to explore?
+          - paragraph: Chat with Zanzibar Guide for itineraries, lodges, FAQs, and emergency support — powered by Cassava AI.
+          - button: Start Chatting Now
+  - menu "More navigation" [active] [ref=f4e160]:
+    - menuitem "AI Chat Dashboard" [ref=f4e162]
+    - separator [ref=f4e163]
+    - menuitem "Compare" [ref=f4e164]
+    - menuitem "Widget" [ref=f4e165]
+    - menuitem "Account" [ref=f4e166]
+    - separator [ref=f4e167]
+    - menuitem "WhatsApp" [ref=f4e168]
+    - menuitem "Analytics" [ref=f4e169]
+    - menuitem "Admin" [ref=f4e170]
+    - menuitem "Agent" [ref=f4e171]

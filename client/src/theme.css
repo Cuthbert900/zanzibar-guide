@@ -1,0 +1,37 @@
+/* client/src/theme.css
+   Shared helpers. The semantic colour tokens (--background, --primary, ...) live in
+   index.css; .dark is applied to <html> by ThemeContext.
+*/
+
+:root {
+  --zd-gold: #e8c988; /* sand gold: calls to action */
+  --zd-radius: 0.5rem;
+}
+
+/* Apply sensible defaults so non-themed components inherit correctly */
+html, body, #root {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* Small utility classes used by components */
+.theme-surface {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--zd-radius);
+  box-shadow: 0 10px 30px rgba(2, 8, 8, 0.03);
+}
+
+:focus {
+  outline: 3px solid color-mix(in srgb, var(--ring) 28%, transparent);
+  outline-offset: 2px;
+}
+
+/* Minimal ThemeToggle styles (keeps the button neutral in both themes) */
+.theme-toggle {
+  border: none;
+  background: transparent;
+  color: var(--foreground);
+  display: inline-grid;
+  place-items: center;
+}

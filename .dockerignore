@@ -1,0 +1,33 @@
+# Dependencies and caches
+node_modules
+.pnpm-store
+dist
+.git
+.gitignore
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local / IDE
+.DS_Store
+.cursor
+.vscode
+.idea
+*.log
+npm-debug.log*
+.manus-logs
+
+# Runtime data (seeded in container)
+data/*.json
+data/brochures
+
+# Docs / unused
+*.md
+!README.md
+Tourism Data/Zanzibar Files/
+Tourism Data/Tourism MD Files/
+!Tourism Data/
+!Tourism Data/Tourism MD Files/
+!Tourism Data/Tourism MD Files/*.md

@@ -1,0 +1,123 @@
+- generic [ref=f6e2]:
+  - region "Notifications alt+T"
+  - generic [ref=f6e3]:
+    - banner [ref=f6e4]:
+      - generic [ref=f6e5]:
+        - generic [ref=f6e6]:
+          - img "Zanzibar Guide" [ref=f6e7]
+          - generic [ref=f6e8]:
+            - heading "Zanzibar Guide" [level=1] [ref=f6e9]
+            - paragraph [ref=f6e10]: Your Zanzibar travel companion
+          - button "Open tools panel" [ref=f6e11] [cursor=pointer]: Tools
+          - button "Demo script" [ref=f6e12] [cursor=pointer]
+        - generic [ref=f6e13]:
+          - generic "Auto-speak" [ref=f6e14] [cursor=pointer]:
+            - checkbox "Auto-speak" [ref=f6e15]
+            - text: Auto-speak
+          - generic [ref=f6e16]:
+            - combobox "Display currency" [ref=f6e17] [cursor=pointer]:
+              - option "USD" [selected]
+              - option "EUR"
+              - option "GBP"
+              - option "ZAR"
+            - button "Refresh exchange rates" [disabled] [ref=f6e18]: …
+          - combobox "Language" [ref=f6e24] [cursor=pointer]:
+            - option "English" [selected]
+            - option "Español"
+            - option "Français"
+            - option "Deutsch"
+            - option "中文"
+            - option "Kiswahili"
+          - button "More navigation" [ref=f6e25] [cursor=pointer]:
+            - generic [ref=f6e26]: More
+          - generic [ref=f6e27]: Powered by Cassava AI
+          - status "Checking AI setup" [ref=f6e28]
+    - main [ref=f6e32]:
+      - generic [ref=f6e33]:
+        - generic [ref=f6e35]:
+          - generic [ref=f6e43]:
+            - paragraph [ref=f6e44]: Hello! 👋 I'm your Zanzibar travel assistant. How can I help you today?
+            - generic [ref=f6e45]:
+              - generic [ref=f6e46]: 11:58
+              - button "Speak reply" [ref=f6e47] [cursor=pointer]: Speak
+          - group "Quick Questions:" [ref=f6e49]:
+            - paragraph [ref=f6e50]: "Quick Questions:"
+            - generic [ref=f6e51]:
+              - button "Find Attractions" [ref=f6e52] [cursor=pointer]
+              - button "Hotels & Stays" [ref=f6e54] [cursor=pointer]
+              - button "Travel Safety" [ref=f6e56] [cursor=pointer]
+              - button "Book a Tour" [ref=f6e58] [cursor=pointer]
+              - button "Emergency Help" [ref=f6e60] [cursor=pointer]
+              - button "General Info" [ref=f6e62] [cursor=pointer]
+          - generic [ref=f6e65]:
+            - textbox "Send message" [ref=f6e66]:
+              - /placeholder: Ask about Stone Town, beaches, lodges, visas...
+            - generic [ref=f6e67]:
+              - textbox "Photo caption" [ref=f6e68]:
+                - /placeholder: Caption (e.g. Stone Town door / Nungwi)
+              - button "Upload photo for multimodal chat" [ref=f6e69]
+              - button "Upload photo for multimodal chat" [ref=f6e70] [cursor=pointer]
+            - button "Start voice input" [ref=f6e72] [cursor=pointer]
+            - button "Send message" [disabled]
+        - complementary "Tools & map" [ref=f6e73]:
+          - generic [ref=f6e74]:
+            - generic [ref=f6e75]:
+              - heading "Tools & map" [level=2] [ref=f6e76]
+              - paragraph [ref=f6e77]: Essentials first — plan, discover, book, then utilities and extras
+            - generic [ref=f6e79]:
+              - generic [ref=f6e80]:
+                - paragraph [ref=f6e81]: Live map (OpenStreetMap)
+                - paragraph [ref=f6e82]: Ask chat or build an itinerary
+              - generic [ref=f6e83]:
+                - generic:
+                  - generic [ref=f6e84]:
+                    - button "Zoom in" [ref=f6e85] [cursor=pointer]: +
+                    - button "Zoom out" [ref=f6e86] [cursor=pointer]: −
+                  - generic [ref=f6e87]:
+                    - link "Leaflet" [ref=f6e88] [cursor=pointer]:
+                      - /url: https://leafletjs.com
+                    - text: "| ©"
+                    - link "OpenStreetMap" [ref=f6e93] [cursor=pointer]:
+                      - /url: https://www.openstreetmap.org/copyright
+            - button "Nearest emergency" [ref=f6e95] [cursor=pointer]
+            - generic [ref=f6e96]:
+              - textbox "Search tool categories..." [ref=f6e98]
+              - generic [ref=f6e99]:
+                - button "Essentials 8 Search places, plan itineraries, read stories, and check weather." [ref=f6e100] [cursor=pointer]:
+                  - generic [ref=f6e105]:
+                    - generic [ref=f6e106]:
+                      - text: Essentials
+                      - generic [ref=f6e107]: "8"
+                    - generic [ref=f6e108]: Search places, plan itineraries, read stories, and check weather.
+                - button "Plan & book 13 Build routes, compare stays, manage budgets, and bookings." [ref=f6e109] [cursor=pointer]:
+                  - generic [ref=f6e113]:
+                    - generic [ref=f6e114]:
+                      - text: Plan & book
+                      - generic [ref=f6e115]: "13"
+                    - generic [ref=f6e116]: Build routes, compare stays, manage budgets, and bookings.
+                - button "Help & info 11 Get travel guidance, local transport, translation, and documents." [ref=f6e117] [cursor=pointer]:
+                  - generic [ref=f6e122]:
+                    - generic [ref=f6e123]:
+                      - text: Help & info
+                      - generic [ref=f6e124]: "11"
+                    - generic [ref=f6e125]: Get travel guidance, local transport, translation, and documents.
+                - button "Extras 2 Accessibility settings and travel rewards." [ref=f6e126] [cursor=pointer]:
+                  - generic [ref=f6e130]:
+                    - generic [ref=f6e131]:
+                      - text: Extras
+                      - generic [ref=f6e132]: "2"
+                    - generic [ref=f6e133]: Accessibility settings and travel rewards.
+      - generic [ref=f6e134]:
+        - generic [ref=f6e135]:
+          - heading "Discover Attractions" [level=3] [ref=f6e137]
+          - paragraph [ref=f6e138]: Hours, fees, transport, and events from the mock Commission API.
+        - generic [ref=f6e139]:
+          - heading "Stay Safe & Informed" [level=3] [ref=f6e141]
+          - paragraph [ref=f6e142]: Dynamic compliance feed with rule-based watch/alert severity.
+        - generic [ref=f6e143]:
+          - heading "Book securely" [level=3] [ref=f6e145]
+          - paragraph [ref=f6e146]: Tokenized PCI-DSS shaped mock gateway — no card PANs stored.
+      - generic [ref=f6e147]:
+        - heading "Ready to explore?" [level=2] [ref=f6e148]
+        - paragraph [ref=f6e149]: Chat with Zanzibar Guide for itineraries, lodges, FAQs, and emergency support — powered by Cassava AI.
+        - button "Start Chatting Now" [ref=f6e150] [cursor=pointer]
